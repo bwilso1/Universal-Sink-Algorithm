@@ -2,12 +2,12 @@
 	Date:	4/3/18
 	Class:	CS 441
 	Purpose:
-		My trial of code to help with HW problem #3.  Code was not required, but I prefer actual code to pseudo code.
+		My trial of code to help with HW problem #3.  Code was not required, but I wrote to text my pseudo code.
 
 	Problem:
 		Most graph algorithms that take an adjacency-matrix representation as input require
 		time Om(V^2) but there are some exceptions. Show how to determine whether
-		a directed graph G contains a universal sink—a vertex with in-degree |V| - 1 and
+		a directed graph G contains a universal sinkâ€”a vertex with in-degree |V| - 1 and
 		out-degree 0, in time O(V), given an adjacency matrix for G.
 
 	Def:
